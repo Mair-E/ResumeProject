@@ -241,7 +241,7 @@ footer {
 
 .personal-info-item .key p, 
 .personal-info-item .value p {
-    max-resolution: 0;
+    margin: 0;
 }
 
 .personal-info-item .key {
@@ -268,7 +268,7 @@ footer {
     margin-bottom: 4px;
 }
 
-progress-type {
+.progress-type {
     position: absolute;
     left: 0px;
     font-weight: 400;
